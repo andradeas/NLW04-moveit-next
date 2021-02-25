@@ -3,6 +3,12 @@
   align-items: center;
 }
 
+@media (max-height: 700px) {
+  .experienceBar {
+    margin-bottom: 4rem;
+  }
+}
+
 .experienceBar span {
   font-size: 1rem;
 }
